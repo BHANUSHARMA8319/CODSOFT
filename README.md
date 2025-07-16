@@ -2,7 +2,7 @@
 Internship tasks completed during my Data Science internship at CodSoft.
 
 ## 📁 Repository Structure
-CodSoft/
+CodSoft/  
 ├── Task 1/ - IMDb India Movie Rating Prediction.    
 ├── Task 2/ - Advertising Sales Prediction using Linear Regression.  
 └── Task 3/ - Credit Card Fraud Detection (with Git LFS).  
