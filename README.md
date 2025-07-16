@@ -40,7 +40,7 @@ CodSoft/
 **Bhanu Sharma**  
 🎓 B.Tech Final Year | Frontend Dev & Data Science Enthusiast  
 📍 Medi-Caps University, Indore  
-🔗 [LinkedIn](https://www.linkedin.com/in/bhanu-sharma-8319) | [GitHub](https://github.com/BHANUSHARMA8319)
+🔗 [LinkedIn](https://www.linkedin.com/in/bhanusharma-cse) | [GitHub](https://github.com/BHANUSHARMA8319)
 
 ---
 ## 🛠️ How to Run
